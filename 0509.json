@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/debug",
+    "pages/play_friends/index",
+    "pages/logs/radar",
+    "pages/flying_orde/flying_orde",
+    "pages/query/query",
+    "pages/flying_orde/interface_byPlay/interface",
+    "pages/gaokao_poetry/gaokao_poetry",
+    "pages/gaokao_poetryDetail/gaokao_poetryDetail",
+    "pages/fill_poetry/fill_poetry",
+    "pages/hide_orde/hide_orde",
+    "pages/poem_orde/poem_orde",
+    "components/selcet/selcet",
+    "pages/fu_orde/fu",
+    "pages/line_orde/line",
+    "pages/dragon_orde/dragon"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "诗词小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
