@@ -1,0 +1,23 @@
+{
+  "name": "poetryminapp",
+  "version": "1.0.0",
+  "description": "诗词对战微信小程序",
+  "main": "app.js",
+  "dependencies": {
+    "vant-weapp": "^0.5.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fanioc/poetryminapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fanioc/poetryminapp/issues"
+  },
+  "homepage": "https://github.com/Fanioc/poetryminapp#readme"
+}
